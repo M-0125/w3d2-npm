@@ -1,0 +1,8 @@
+__tests__/
+.git
+.github
+.gitignore
+.npmignore
+node_modules/
+*.log
+coverage/

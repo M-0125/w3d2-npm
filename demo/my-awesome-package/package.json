@@ -1,0 +1,23 @@
+{
+  "name": "@andasan/my-awesome-package",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "coverage": "jest --coverage"
+  },
+  "keywords": [
+    "string",
+    "utility"
+  ],
+  "author": "andasan",
+  "license": "MIT",
+  "description": "A collection string utility functions",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andasan/my-awesome-package"
+  }
+}
